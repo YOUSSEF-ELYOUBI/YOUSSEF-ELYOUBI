@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://avatars.githubusercontent.com/u/YOUR_USER_ID?v=4" alt="Youssef El Youbi" width="150" height="150" style="border-radius:50%;"/> <!-- Replace YOUR_USER_ID or use a direct image URL -->
+  <img src="https://avatars.githubusercontent.com/YOUSSEF-ELYOUBI?size=150" alt="Youssef El Youbi" width="150" height="150" style="border-radius:50%;"/>
   <h1>Hi there, I'm Youssef El Youbi 👋</h1>
   <p>
     <strong>Data Analyst & Finance Enthusiast | AWS AI & ML Scholar | Oracle Certified</strong>
@@ -18,7 +18,7 @@
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
     <a href="https://www.canva.com/design/DAGDdZy6frY/-bPv2MtyoT4VPSANB3KcEA/view?utm_content=DAGDdZy6frY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
-      <img src="https://img.icons8.com/fluency/48/000000/open-resume.png" alt="Resume" height="30" width="30" />
+      <img src="https://img.shields.io/badge/-My%20Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="My Resume" height="30"/>
     </a>
   </p>
 </div>
@@ -89,7 +89,7 @@ I'm a highly motivated ENCG graduate with a strong foundation in Finance, Data A
     <a href="https://intranet.alxswe.com/certificates/Z8x2SXeYBy" target="_blank"><img src="https://img.shields.io/badge/AI%20Career%20Essentials-ALX%20Africa-00BFA5?style=for-the-badge" height="30" alt="ALX AI Career Essentials"/></a>
     <img src="https://img.shields.io/badge/CISI-Fundamentals%20L2-006A6C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xOS43NCw3LjQzQTEuNSwxLjUsMCwwLDAsMTguNSw3SDUuNUEEuNSwxLjUsMCwwLDAsNCw4LjV2OUExLjUsMS41LDAsMCwwLDUuNSwxOWg2LjE5bC4xNi4zOWExLDEsMCwwLDAsMS44OS0uMDlMMTQuNSwxOWg0YTEuNSwxLjUsMCwwLDAsMS41LTEuNVY4LjVBMS41LDEuNSwwLDAsMCwxOS43NCw3LjQzWk02LDE3VjlIMTh2OEgxNC43NWExLDEsMCwwLDAtLjkuNTVsLS42LDEuNDVIMTAuNzVsLS42LTEuNDVBMSwxLDAsMCwwLDkuMjUsMTdabTktNWExLDEsMCwxLDEtMS0xQTEsMSwwLDAsMSwxNSwxMlptLTQsMGExLDEsMCwxLDEtMS0xQTEsMSwwLDAsMSwxMSwxMloiLz48L3N2Zz4=" height="30" alt="CISI Fundamentals L2"/>
     <br/>
-    <img src="https://img.shields.io/badge/Portfolio%20Management-darkgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkNoYXJ0IGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xMiAwQTEyIDEyIDAgMSAwIDEyIDI0IDEyIDEyIDAgMCAwIDEyIDB6bS0xLjc5IDYuOTRsMy4zNSA0Ljc0IDIuODEtMi4xLTcuNjYgNy42N3YtLjAwMWwtNC40MS0zLjAyIDIuNjQtMy45MiAzLjI3IDIuMzV6Ii8+PC9zdmc+" height="30" alt="Portfolio Management"/>
+    <img src="https://img.shields.io/badge/Portfolio%20Management-darkgreen?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgcm9sZT0iaW1nIiB2aWV3Qm94PSIwIDAgMjQgMjQiIHhtbG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyI+PHRpdGxlPkNoYXJ0IGljb248L3RpdGxlPjxwYXRoIGQ9Ik0xMiAwQTEyIDEyIDAgMSAwIDEyIDI0IDEyIDEyIDAgMCAwIDEyIDB6bS0xLjc5IDYuOTRsMy4zNSA0Ljc0IDIuODEtMi4xLTcuNjYgNy42N3YtLjAwMWwtNC44MDIgMi42NC0zLjkyIDMuMjcgMi4zNV6Ii8+PC9zdmc+" height="30" alt="Portfolio Management"/>
     <a href="https://coursera.org/verify/M7D13WTMA50C" target="_blank"><img src="https://img.shields.io/badge/EDHEC%20Business%20School-Finance%20(Coursera)-004369?style=for-the-badge&logo=coursera&logoColor=white" height="30" alt="EDHEC (Coursera)"/></a>
     <img src="https://img.shields.io/badge/Oracle%20Certified-Foundations%20Associate%20(OCI)-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30" alt="Oracle Certified Foundations Associate"/>
     <a href="https://www.udacity.com/certificate/e/dde24e76-f418-11ee-96b6-ffd1c2f7e1dc" target="_blank"><img src="https://img.shields.io/badge/AWS%20Generative%20AI-Udacity-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" alt="AWS Generative AI (Udacity)"/></a>
