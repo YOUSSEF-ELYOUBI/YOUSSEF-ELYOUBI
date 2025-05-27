@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm YOUSSEF EL YOUBII</h1>
+<h1 align="center">Hi 👋, I'm YOUSSEF EL YOUBI</h1>
 <h3 align="center">Highly motivated Finance and Data enthusiast, an ENCG graduate with a passion for transforming raw data into actionable business and financial insights. Proficient in Python (Pandas, NumPy), SQL, **Excel, and Power BI for in-depth data analysis, visualization, and building automated reporting solutions**. Skilled in portfolio management, risk management, and CPPI strategies. Demonstrated ability to deliver tangible results, including increasing sales by 12% and reducing stockouts by 15% during an internship at Carrefour. Recognized as an AWS AI & ML Scholar and Oracle Certified. Seeking an entry-level Data Analyst, Business Intelligence Analyst, or Junior Financial Analyst role to contribute to data-driven decision-making.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=YOUSSEF-ELYOUBI&label=Profile%20views&color=0e75b6&style=flat" alt="YOUSSEF-ELYOUBI" /> </p>
