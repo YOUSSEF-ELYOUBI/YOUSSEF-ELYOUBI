@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi there, I'm Youssef El Youbi 👋</h1>
+  <h1>Hi there, I'm YOUSSEF EL YOUBI👋</h1>
   <p>
     <strong>Data Analyst & Finance Enthusiast | AWS AI & ML Scholar | Oracle Certified</strong>
     <br />
