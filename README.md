@@ -25,7 +25,7 @@
 ---
 
 ### 👨‍💻 About Me
-Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bridging finance and data science. Expert in transforming complex data into actionable business insights using **Python, SQL, Excel, and Power BI** for advanced analytics, automated reporting, and strategic decision support. Proven ability in portfolio management, risk assessment, and CPPI strategies. I have a demonstrated ability to deliver tangible results, such as increasing sales by 12% and reducing stockouts by 15% during a key internship. Eager to drive innovation in a Data Analyst, BI, or Junior Financial Analyst role.
+Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bridging finance and data science. Expert in transforming complex data into actionable business insights using **Python, MACHING LEARNING , Excel, and Power BI** for advanced analytics, automated reporting, and strategic decision support. Proven ability in portfolio management, risk assessment, and CPPI strategies. I have a demonstrated ability to deliver tangible results, such as increasing sales by 12% and reducing stockouts by 15% during a key internship. Eager to drive innovation in a Data Analyst, BI, or Junior Financial Analyst role.
 
 
 - 🔭 I’m currently working on: **Developing a Handwritten Digits Classifier with PyTorch** (AWS AI & ML Nanodegree Project 2).
