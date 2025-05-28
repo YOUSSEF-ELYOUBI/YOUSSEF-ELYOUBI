@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Hi there, I'm Youssef El Youbi 👋</h1>
   <p>
-    <strong>Finance Enthusiast & Data Analyst| AWS AI & ML Scholar | Oracle Certified</strong>
+    <strong>Data Analyst & Finance Enthusiast | AWS AI & ML Scholar | Oracle Certified</strong>
     <br />
     Passionate about transforming data into actionable business insights and driving data-informed strategies.
   </p>
@@ -25,8 +25,8 @@
 ---
 
 ### 👨‍💻 About Me
+Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bridging finance and data science. Expert in transforming complex data into actionable business insights using **Python, SQL, Excel, and Power BI** for advanced analytics, automated reporting, and strategic decision support. Proven ability in portfolio management, risk assessment, and CPPI strategies. I have a demonstrated ability to deliver tangible results, such as increasing sales by 12% and reducing stockouts by 15% during a key internship. Eager to drive innovation in a Data Analyst, BI, or Junior Financial Analyst role.
 
-I'm a highly motivated ENCG graduate with a strong foundation in Finance, Data Analysis, and Management. My goal is to leverage my skills in Python (Pandas, NumPy), SQL, Excel, and Power BI to build insightful data visualizations, automated reporting solutions, and contribute to robust financial strategies including portfolio management, risk management, and CPPI. I have a proven ability to deliver tangible results, such as increasing sales by 12% and reducing stockouts by 15% during a key internship.
 
 - 🔭 I’m currently working on: **Developing a Handwritten Digits Classifier with PyTorch** (AWS AI & ML Nanodegree Project 2).
 - 🌱 I’m currently learning: Advanced concepts in the **AWS AI & ML Nanodegree (Machine Learning Fundamentals)** and deepening my Python skills for data analysis via the **IBM Data Analysis with Python course (Coursera)**.
