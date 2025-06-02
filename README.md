@@ -16,6 +16,12 @@
     <a href="https://twitter.com/elyoubiagency" target="_blank">
       <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" />
     </a>
+    <a href="https://www.instagram.com/elyoubi_youssef" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+    </a>
+    <a href="https://web.facebook.com/joseph.elyoubi" target="_blank">
+      <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Facebook" height="30" width="40" />
+    </a>
     <a href="https://www.canva.com/design/DAGDdZy6frY/-bPv2MtyoT4VPSANB3KcEA/view?utm_content=DAGDdZy6frY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton" target="_blank">
       <img src="https://img.shields.io/badge/-My%20Resume-blue?style=for-the-badge&logo=readthedocs&logoColor=white" alt="My Resume" height="30"/>
     </a>
@@ -25,11 +31,11 @@
 ---
 
 ### 👨‍💻 About Me
-Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bridging finance and data science. Expert in transforming complex data into actionable business insights using **Python, MACHING LEARNING , Excel, and Power BI** for advanced analytics, automated reporting, and strategic decision support. Proven ability in portfolio management, risk assessment, and CPPI strategies. I have a demonstrated ability to deliver tangible results, such as increasing sales by 12% and reducing stockouts by 15% during a key internship. Eager to drive innovation in a Data Analyst, BI, or Junior Financial Analyst role.
+Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bridging finance and data science. Expert in transforming complex data into actionable business insights using **Python, MACHINE LEARNING, Excel, and Power BI** for advanced analytics, automated reporting, and strategic decision support. Proven ability in portfolio management, risk assessment, and CPPI strategies. I have a demonstrated ability to deliver tangible results, such as increasing sales by 12% and reducing stockouts by 15% during a key internship. Eager to drive innovation in a Data Analyst, BI, or Junior Financial Analyst role.
 
 
 - 🔭 I’m currently working on: **Developing a Handwritten Digits Classifier with PyTorch** (AWS AI & ML Nanodegree Project 2).
-- 🌱 I’m currently learning: Advanced concepts in the **AWS AI & ML Nanodegree (Machine Learning Fundamentals)** and deepening my Python skills for data analysis via the **IBM Data Analysis with Python course (Coursera)**.
+- 🌱 I’m currently learning: Advanced concepts in the **AWS AI & ML Nanodegree (Machine Learning Fundamentals)**.
 - 🤝 I’m looking for help with/to collaborate on: Advanced topics in Machine Learning deployment and cloud-native application development.
 - 💬 Ask me about: Machine Learning, AI Programming, Data Analysis (Excel, Power BI, Python), Automated Reporting, Generative AI, OCI, Portfolio Construction, Risk Management, CPPI, Financial Services Fundamentals (CISI), and Data Visualization.
 - 📝 I regularly write articles on my [LinkedIn Profile](https://www.linkedin.com/in/youssefelyoubi).
@@ -71,6 +77,7 @@ Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bri
 
 ### 📜 My Certifications & Key Courses
 
+-   **Data Analysis with Python** - IBM (via Coursera) - [Verify](https://coursera.org/verify/6U6VDC37M9FS)
 -   **Excel et Power BI: Analyse de données et Reporting automatisé** - Delivered by professional instructor Salma Berzel (CF n°2025100021)
 -   **AI Career Essentials** - ALX Africa - [Verify](https://intranet.alxswe.com/certificates/Z8x2SXeYBy)
 -   **Fundamentals of Financial Services (Level 2)** - Chartered Institute for Securities & Investment (CISI)
@@ -84,6 +91,7 @@ Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bri
 ### ✨ Certification Badges
 
 <p align="center">
+    <a href="https://coursera.org/verify/6U6VDC37M9FS" target="_blank"><img src="https://img.shields.io/badge/IBM-Data%20Analysis%20with%20Python-0062FF?style=for-the-badge&logo=ibm&logoColor=white" height="30" alt="IBM Data Analysis with Python"/></a>
     <img src="https://img.shields.io/badge/Excel%20%26%20Power%20BI-Data%20Analysis%20%26%20Reporting-107C41?style=for-the-badge&logo=microsoft-excel&logoColor=white" height="30" alt="Excel & Power BI"/>
     <a href="https://intranet.alxswe.com/certificates/Z8x2SXeYBy" target="_blank"><img src="https://img.shields.io/badge/AI%20Career%20Essentials-ALX%20Africa-00BFA5?style=for-the-badge" height="30" alt="ALX AI Career Essentials"/></a>
     <img src="https://img.shields.io/badge/CISI-Fundamentals%20L2-006A6C?style=for-the-badge&logo=data:image/svg+xml;base64,PHN2ZyBmaWxsPSJ3aGl0ZSIgdmlld0JveD0iMCAwIDI0IDI0IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxwYXRoIGQ9Ik0xOS43NCw3LjQzQTEuNSwxLjUsMCwwLDAsMTguNSw3SDUuNUEEuNSwxLjUsMCwwLDAsNCw4LjV2OUExLjUsMS41LDAsMCwwLDUuNSwxOWg2LjE5bC4xNi4zOWExLDEsMCwwLDAsMS44OS0uMDlMMTQuNSwxOWg0YTEuNSwxLjUsMCwwLDAsMS41LTEuNVY4LjVBMS41LDEuNSwwLDAsMCwxOS43NCw3LjQzWk02LDE3VjlIMTh2OEgxNC43NWExLDEsMCwwLDAtLjkuNTVsLS42LDEuNDVIMTAuNzVsLS42LTEuNDVBMSwxLDAsMCwwLDkuMjUsMTdabTktNWExLDEsMCwxLDEtMS0xQTEsMSwwLDAsMSwxNSwxMlptLTQsMGExLDEsMCwxLDEtMS0xQTEsMSwwLDAsMSwxMSwxMloiLz48L3N2Zz4=" height="30" alt="CISI Fundamentals L2"/>
