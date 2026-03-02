@@ -71,12 +71,12 @@ I am thrilled to have successfully completed multiple projects as part of the **
 
 ### 📊 GitHub Stats & Activity
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUSSEF-ELYOUBI&label=Profile%20views&color=0e75b6&style=flat&cache_bust=1" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUSSEF-ELYOUBI&cache_bust=1" alt="GitHub Trophy" /></a>
+  <img src="https://komarev.com/ghpvc/?username=YOUSSEF-ELYOUBI&label=Profile%20views&color=0e75b6&style=flat&cache_bust=999" alt="Profile Views" />
+  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUSSEF-ELYOUBI&cache_bust=998" alt="GitHub Trophy" /></a>
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUSSEF-ELYOUBI&show_icons=true&locale=en&theme=tokyonight&cache_bust=1" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUSSEF-ELYOUBI&layout=compact&locale=en&theme=tokyonight&cache_bust=1" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUSSEF-ELYOUBI&show_icons=true&locale=en&theme=tokyonight&cache_bust=997" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUSSEF-ELYOUBI&layout=compact&locale=en&theme=tokyonight&cache_bust=996" alt="Top Languages" />
 </p>
 <p align="center">
   <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUSSEF-ELYOUBI&theme=react" alt="Activity Graph" /> -->
