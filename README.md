@@ -66,8 +66,6 @@ Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bri
 
 ### 📊 GitHub Stats & Activity
 
-## 📊 GitHub Stats & Activity
-
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=YOUSSEF-ELYOUBI&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
@@ -78,9 +76,10 @@ Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bri
 
 <p align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUSSEF-ELYOUBI&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  
   <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSEF-ELYOUBI&layout=compact&theme=tokyonight&cache_seconds=86400"/>
 </p>
----
+
 
 ### 📜 My Certifications & Key Courses
 - ✅ AWS Machine Learning Engineer Nanodegree — Udacity - [Verify](https://www.udacity.com/certificate/e/b7cda8c6-2936-11f0-bfca-eb76cc05c1bb)
