@@ -70,20 +70,27 @@ I am thrilled to have successfully completed multiple projects as part of the **
 ---
 
 ### 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUSSEF-ELYOUBI&label=Profile%20views&color=0e75b6&style=flat&cache_bust=12345" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUSSEF-ELYOUBI&theme=dracula&cache_bust=54321" alt="GitHub Trophy" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUSSEF-ELYOUBI&show_icons=true&locale=en&theme=dracula&hide_border=true&cache_bust=9876" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUSSEF-ELYOUBI&layout=compact&locale=en&theme=dracula&hide_border=true&cache_bust=6789" alt="Top Languages" />
-</p>
-<p align="center">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUSSEF-ELYOUBI&theme=react" alt="Activity Graph" /> -->
+  <!-- This one works because it is NOT on Vercel -->
+  <img src="https://komarev.com/ghpvc/?username=YOUSSEF-ELYOUBI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
----
+<!-- 
+THE SERVICES BELOW ARE CURRENTLY DOWN (VERCEL DEPLOYMENT PAUSED). 
+UNCOMMENT THEM ONCE THE PROVIDERS RESUME SERVICE.
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=YOUSSEF-ELYOUBI&theme=radical" alt="GitHub Trophy" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YOUSSEF-ELYOUBI&show_icons=true&locale=en&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUSSEF-ELYOUBI&layout=compact&locale=en&theme=radical" alt="Top Languages" />
+</p>
+-->
 ### 📜 My Certifications & Key Courses
 - ✅ **AWS Machine Learning Engineer** Nanodegree — Udacity - [Verify](https://www.udacity.com/certificate/e/b7cda8c6-2936-11f0-bfca-eb76cc05c1bb)
 -   **Data Analysis with Python** - IBM (via Coursera) - [Verify](https://coursera.org/verify/6U6VDC37M9FS)
