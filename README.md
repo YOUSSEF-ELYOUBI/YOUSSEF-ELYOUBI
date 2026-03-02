@@ -31,10 +31,13 @@
 ---
 
 ### 👨‍💻 About Me
+🎓 ENCG Graduate & AWS AI & ML Scholar
+💼 Final Year Intern — Business Analyst, Crédit du Maroc (CDM), Fès
+specialize in combining Finance, Data Analytics, and Machine Learning to transform complex datasets into actionable business insights.
 Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bridging finance and data science. Expert in transforming complex data into actionable business insights using **Python, MACHINE LEARNING, Excel, and Power BI** for advanced analytics, automated reporting, and strategic decision support. Proven ability in portfolio management, risk assessment, and CPPI strategies. I have a demonstrated ability to deliver tangible results, such as increasing sales by 12% and reducing stockouts by 15% during a key internship. Eager to drive innovation in a Data Analyst, BI, or Junior Financial Analyst role.
 
 
-- 🔭 I’m currently working on: **Developing a Handwritten Digits Classifier with PyTorch** (AWS AI & ML Nanodegree Project 2).
+- 💼 Currently completing my Final Year Internship (PFE) as a Business Analyst at Crédit du Maroc (CDM), Fès
 - 🌱 I’m currently learning: Advanced concepts in the **AWS AI & ML Nanodegree (Machine Learning Fundamentals)**.
 - 🤝 I’m looking for help with/to collaborate on: Advanced topics in Machine Learning deployment and cloud-native application development.
 - 💬 Ask me about: Machine Learning, AI Programming, Data Analysis (Excel, Power BI, Python), Automated Reporting, Generative AI, OCI, Portfolio Construction, Risk Management, CPPI, Financial Services Fundamentals (CISI), and Data Visualization.
@@ -46,37 +49,41 @@ Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bri
 ### 🛠️ Languages and Tools
 
 <p align="center">
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
-  <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a>
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" alt="pytorch" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white" alt="Excel"/> </a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black" alt="Power BI"/> </a>
-</p>
 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" width="45" height="45"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" width="45" height="45"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" height="45"/>
+
+<img src="https://img.shields.io/badge/Microsoft%20Excel-1D6F42?style=for-the-badge&logo=microsoft-excel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Microsoft%20Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"/>
+
+</p>
 ---
 
 ### 📊 GitHub Stats & Activity
 
+## 📊 GitHub Stats & Activity
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=YOUSSEF-ELYOUBI&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=YOUSSEF-ELYOUBI" alt="GitHub Trophy" /></a>
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUSSEF-ELYOUBI&show_icons=true&locale=en&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=YOUSSEF-ELYOUBI&layout=compact&locale=en&theme=tokyonight" alt="Top Languages" />
-</p>
-<p align="center">
-  <!-- <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUSSEF-ELYOUBI&theme=react" alt="Activity Graph" /> -->
+  <img src="https://komarev.com/ghpvc/?username=YOUSSEF-ELYOUBI&label=Profile%20views&color=0e75b6&style=flat"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUSSEF-ELYOUBI&theme=algolia&no-frame=true&margin-w=10"/>
+</p>
+
+<p align="center">
+  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=YOUSSEF-ELYOUBI&show_icons=true&theme=tokyonight&cache_seconds=86400"/>
+  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUSSEF-ELYOUBI&layout=compact&theme=tokyonight&cache_seconds=86400"/>
+</p>
 ---
 
 ### 📜 My Certifications & Key Courses
-
+- ✅ AWS Machine Learning Engineer Nanodegree — Udacity - [Verify](https://www.udacity.com/certificate/e/b7cda8c6-2936-11f0-bfca-eb76cc05c1bb)
 -   **Data Analysis with Python** - IBM (via Coursera) - [Verify](https://coursera.org/verify/6U6VDC37M9FS)
 -   **Excel et Power BI: Analyse de données et Reporting automatisé** - Delivered by professional instructor Salma Berzel (CF n°2025100021)
 -   **AI Career Essentials** - ALX Africa - [Verify](https://intranet.alxswe.com/certificates/Z8x2SXeYBy)
@@ -101,3 +108,6 @@ Highly motivated ENCG graduate and **AWS AI & ML Scholar**, passionate about bri
     <img src="https://img.shields.io/badge/Oracle%20Certified-Foundations%20Associate%20(OCI)-F80000?style=for-the-badge&logo=oracle&logoColor=white" height="30" alt="Oracle Certified Foundations Associate"/>
     <a href="https://www.udacity.com/certificate/e/dde24e76-f418-11ee-96b6-ffd1c2f7e1dc" target="_blank"><img src="https://img.shields.io/badge/AWS%20Generative%20AI-Udacity-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" height="30" alt="AWS Generative AI (Udacity)"/></a>
 </p>
+<a href="https://www.udacity.com/certificate/e/b7cda8c6-2936-11f0-bfca-eb76cc05c1bb" target="_blank">
+<img src="https://img.shields.io/badge/AWS%20Machine%20Learning%20Engineer-Udacity-02B3E4?style=for-the-badge&logo=udacity&logoColor=white" height="30" alt="AWS ML Engineer Nanodegree"/>
+</a>
